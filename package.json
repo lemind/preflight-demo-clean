@@ -1,0 +1,9 @@
+{
+  "name": "preflight-demo-clean",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Controlled test case: a project on @solana/kit only, for dependency-preflight",
+  "dependencies": {
+    "@solana/kit": "8.6.0"
+  }
+}
